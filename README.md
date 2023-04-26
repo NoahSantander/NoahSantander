@@ -6,7 +6,7 @@
 
 - 🌍 I am from Argentina
 
-- 📚 I am currently studying at the Argentine Technological University
+- 📚 I am currently studying at the National Technological University
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Noah_Santander-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Noah_Santander)
